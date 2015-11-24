@@ -1,0 +1,5 @@
+c:\Users\maksim_kharaneka\documents\visual studio 2015\Projects\Demo\Demo3\bin\Debug\Demo3.exe.config
+c:\Users\maksim_kharaneka\documents\visual studio 2015\Projects\Demo\Demo3\bin\Debug\Demo3.exe
+c:\Users\maksim_kharaneka\documents\visual studio 2015\Projects\Demo\Demo3\bin\Debug\Demo3.pdb
+c:\Users\maksim_kharaneka\documents\visual studio 2015\Projects\Demo\Demo3\obj\Debug\Demo3.exe
+c:\Users\maksim_kharaneka\documents\visual studio 2015\Projects\Demo\Demo3\obj\Debug\Demo3.pdb
