@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Demo4
 {
-    class Program
+    internal class Program
     {
         public static int SumOfPairs(int[] numbersArray, int numberToFind)
         {
@@ -23,10 +19,10 @@ namespace Demo4
             return count;
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            int[] numbersArray = { 1, 2, 3, 4, 5, 10, 11, 13, 78 };
-            int numberToFind = 15;
+            int[] numbersArray = {1, 2, 3, 4, 5, 10, 11, 13, 78};
+            var numberToFind = 15;
             var count = SumOfPairs(numbersArray, numberToFind);
             Console.WriteLine(count);
             Console.ReadLine();
